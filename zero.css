@@ -1,0 +1,60 @@
+
+p{
+    color: red;
+}
+#head1{
+    color: blue;
+    background-color: palevioletred;
+}
+#head2{
+    color: blueviolet;
+    background-color: orange;
+}
+#p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    color: red;
+    text-transform: uppercase;
+}
+#p2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.p1{
+    color:blueviolet;
+    
+}
+.p2{
+    color: brown;
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+button{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 90px;
+}
+button{
+    color: chocolate;
+    background-color: rgb(74,204,255);
+    padding: 10px,50px;
+}
+#p1,#p2
+{
+    background-color: yellowgreen;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#tutorials
+{
+    gap: 4;
+    display: flex;
+    flex-wrap: wrap;
+}
